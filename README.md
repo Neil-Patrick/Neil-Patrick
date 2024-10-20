@@ -1,6 +1,6 @@
 # Hello, I'm Neil Patrick Pajadan! 👋
 
-I am a second-year Computer Science student from the Philippines, specializing in Information Management. I’m passionate about web development and enjoy building interactive, responsive websites. 
+I am a second-year Computer Science student from the Philippines, specializing in Web Development. I’m passionate about web development and enjoy building interactive, responsive websites. 
 
 ## 🌱 Currently Learning
 - Advanced JavaScript concepts
