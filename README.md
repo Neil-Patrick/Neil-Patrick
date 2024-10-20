@@ -8,9 +8,11 @@ I am a second-year Computer Science student from the Philippines, specializing i
 - Web development frameworks (React.js, Node.js)
 
 ## 💻 My Projects
+- **[Pajadan Potfolio](https://github.com/Neil-Patrick/Pajadan-Portfolio)**: A website for my personal portfolio exploring more of my life.
 - **[Pajadan Blog](https://github.com/Neil-Patrick/Pajadan-Blog)**: A blogging platform where users can post and share their ideas.
 - **[Math Quest](https://github.com/Neil-Patrick/Math-Quest)**: An educational app for improving arithmetic skills through interactive gameplay.
 
+ 
 ## 📫 How to Reach Me
 - **Email**: [patpajadan6825@gmail.com](mailto:patpajadan6825@gmail.com)
 - **LinkedIn**: [Neil Patrick Pajadan](https://www.linkedin.com/in/neil-patrick-pajadan-aa824b32a/)
