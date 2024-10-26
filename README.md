@@ -3,9 +3,9 @@
 I am a second-year Computer Science student from the Philippines, specializing in Web Development. I’m passionate about web development and enjoy building interactive, responsive websites. 
 
 ## 🌱 Currently Learning
-- Advanced JavaScript concepts
+- Advanced JavaScript Concepts
 - Responsive Web Design (HTML/CSS/JavaScript)
-- Web development frameworks (React.js, Node.js)
+- Web development frameworks (Vue.js, React.js, Node.js)
 
 ## 💻 My Projects
 - **[Pajadan Potfolio](https://github.com/Neil-Patrick/Pajadan-Portfolio)**: A website for my personal portfolio exploring more of my life.
