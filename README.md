@@ -15,7 +15,7 @@ I am a second-year Computer Science student from the Philippines, specializing i
 ## 📫 How to Reach Me
 - **My Portfolio**: [Pajadan Portfolio](https://pajadan-portfolio.netlify.app/)
 -  **Email**: [patpajadan6825@gmail.com](mailto:patpajadan6825@gmail.com)
-- **LinkedIn**: [Neil Patrick Pajadan](linkedin.com/in/neil-patrick-pajadan-084360250)
+- **LinkedIn**: [Neil Patrick Pajadan]([linkedin.com/in/neil-patrick-pajadan-084360250](https://www.linkedin.com/in/neil-patrick-pajadan-084360250/))
 
 
 ## 🔧 Technologies & Tools
