@@ -11,7 +11,7 @@ I am a second-year Computer Science student from the Philippines, specializing i
 
 ## 💻 My Projects
 - **[Pajadan Potfolio](https://github.com/Neil-Patrick/Pajadan-Portfolio)**: A website for my personal portfolio exploring more of my life.
-- **[Math-Quest](https://github.com/Neil-Patrick/Math-Quest)**: The successor to Hang-Math, an educational app for improving arithmetic skills through interactive gameplay.
+- **[Math-Quest](https://github.com/Neil-Patrick/Math-Quest)**: An educational app for improving arithmetic skills through interactive gameplay.
 
 
 ## 📫 How to Reach Me
