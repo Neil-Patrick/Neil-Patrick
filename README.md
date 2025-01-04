@@ -2,16 +2,18 @@
 
 I am a second-year Computer Science student from the Philippines, specializing in Web Development. I’m passionate about web development and enjoy building interactive, responsive websites. 
 
+
 ## 🌱 Currently Learning
 - Advanced JavaScript Concepts
 - Responsive Web Design (HTML/CSS/JavaScript)
 - Web development frameworks (Vue.js, React.js, Node.js)
 
+
 ## 💻 My Projects
 - **[Pajadan Potfolio](https://github.com/Neil-Patrick/Pajadan-Portfolio)**: A website for my personal portfolio exploring more of my life.
 - **[Math-Quest](https://github.com/Neil-Patrick/Math-Quest)**: The successor to Hang-Math, an educational app for improving arithmetic skills through interactive gameplay.
 
- 
+
 ## 📫 How to Reach Me
 - **My Portfolio**: [Pajadan Portfolio](https://pajadan-portfolio.netlify.app/)
 -  **Email**: [patpajadan6825@gmail.com](mailto:patpajadan6825@gmail.com)
@@ -33,9 +35,11 @@ I am a second-year Computer Science student from the Philippines, specializing i
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neil-Patrick&langs_count=8&theme=radical&hide_border=true&title_color=ff3068)
 
+
 ### 🔥 Recent GitHub Activity
 
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neil-Patrick&theme=radical&hide_border=true)
 
