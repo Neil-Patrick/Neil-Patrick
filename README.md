@@ -34,8 +34,8 @@ I am a second-year Computer Science student from the Philippines, specializing i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neil-Patrick&langs_count=8&theme=radical&hide_border=true&title_color=ff3068)
 
 ### 🔥 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neil-Patrick&theme=radical&hide_border=true)
 
