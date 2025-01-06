@@ -11,7 +11,9 @@ I am a second-year Computer Science student from the Philippines, specializing i
 
 ## 💻 My Projects
 - **[Pajadan Potfolio](https://github.com/Neil-Patrick/Pajadan-Portfolio)**: A website for my personal portfolio exploring more of my life.
-- **[Math-Quest](https://github.com/Neil-Patrick/Math-Quest)**: An educational app for improving arithmetic skills through interactive gameplay.
+- **[Math Quest](https://github.com/Neil-Patrick/Math-Quest)**: An educational gaming app for improving elementary arithmetic skills through interactive retro-style gameplay.
+- **[Aero Quest](https://github.com/Neil-Patrick/Aero-Quest)**: A flight management system for organizing and tracking flight schedules, aircraft details, and passenger information with real-time updates.
+- **[Shelfie Haven]((https://github.com/Neil-Patrick/Shelfie-Haven))**:A comprehensive book library management system that simplifies borrowing transactions, tracks book availability, and manages borrower records efficiently.
 
 
 ## 📫 How to Reach Me
