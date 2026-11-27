@@ -2,7 +2,7 @@
 
 Computer Science student at Laguna State Polytechnic University in San Pablo City, Philippines, specializing in Intelligent Systems (graduating 2027). I build web apps with TypeScript and Next.js, and I'm moving toward data and AI work.
 
-**Portfolio:** [PORTFOLIO_URL]  ·  **Email:** [neilpatrick.dev@gmail.com](mailto:neilpatrick.dev@gmail.com)  ·  **LinkedIn:** [neil-patrick-pajadan](https://www.linkedin.com/in/neil-patrick-pajadan/)
+**Portfolio:** [PORTFOLIO_URL](https://pajadan-portfolio.vercel.app/)  ·  **Email:** [neilpatrick.dev@gmail.com](mailto:neilpatrick.dev@gmail.com)  ·  **LinkedIn:** [neil-patrick-pajadan](https://www.linkedin.com/in/neil-patrick-pajadan/)
 
 ## Projects
 - **[Portfolio](https://github.com/Neil-Patrick/Portfolio)**: my personal site, built with Next.js 16, TypeScript, Tailwind CSS v4 and three.js.
