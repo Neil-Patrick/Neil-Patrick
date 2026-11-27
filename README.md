@@ -5,10 +5,10 @@ Computer Science student at Laguna State Polytechnic University in San Pablo Cit
 **Portfolio:** [PORTFOLIO_URL]  ·  **Email:** [neilpatrick.dev@gmail.com](mailto:neilpatrick.dev@gmail.com)  ·  **LinkedIn:** [neil-patrick-pajadan](https://www.linkedin.com/in/neil-patrick-pajadan/)
 
 ## Projects
+- **[Portfolio](https://github.com/Neil-Patrick/Portfolio)**: my personal site, built with Next.js 16, TypeScript, Tailwind CSS v4 and three.js.
 - **[GADvance](https://gadvance.vercel.app)**: a Gender and Development learning platform for our university, with modules, quizzes, progress tracking and participation analytics. [Source](https://github.com/nathsuki73/gadvance)
 - **[Statera](https://github.com/Neil-Patrick/Statera_App)**: an Android app that links students' phone habits to their grades through a machine-learning API, with a companion [Next.js site](https://github.com/Neil-Patrick/Statera_FrontEnd). Built with a class team of eight.
 - **[Untold Diaries](https://untold-diaries.vercel.app)**: an anonymous board for messages left unsaid, with an AI cat that reacts as you write. [Source](https://github.com/nathsuki73/untold-diaries)
-- **[Portfolio](https://github.com/Neil-Patrick/Portfolio)**: my personal site, built with Next.js 16, TypeScript, Tailwind CSS v4 and three.js.
 
 ## Tech
 ![TypeScript](https://img.shields.io/badge/TypeScript-121417?style=flat-square&logo=typescript&logoColor=4fd1c1)
